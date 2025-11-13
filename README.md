@@ -68,7 +68,16 @@ I’m a passionate **DevOps & Cloud Engineer** with over **2.5+ years of experie
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
 </p>
 
+---
 
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/Haripalepu/snake/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+
+---
 
 Thanks for visiting! ✨  
 Let’s connect and grow together 💬
