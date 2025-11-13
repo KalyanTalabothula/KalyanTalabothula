@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://github.com/Kalyan Talabothula/KalyanTalabothula/blob/main/git_banner5.png" alt="GitHub Banner" width="800"/>
-</div>
+</div> -->
 
 # 👋 Hi, I'm Kalyan Talabothula
 
