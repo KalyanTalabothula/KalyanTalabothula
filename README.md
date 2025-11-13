@@ -9,7 +9,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/kalyan-talabothula/)
 
-[![Gmail](https://img.shields.io/badge/Email-kalyant.aus@gmail.com@gmail.com-red?logo=gmail&style=flat)](mailto:kalyant.aus@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-kalyant.aus@gmail.com-red?logo=gmail&style=flat)](mailto:kalyant.aus@gmail.com)
 
 ---
 
