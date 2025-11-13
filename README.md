@@ -4,8 +4,8 @@
 
 # 👋 Hi, I'm Kalyan Talabothula
 
-### Software Engineer II – SRE @ JPMorgan Chase  
-🚀 DevOps • SRE • Cloud Engineer | AWS | CI/CD | Kubernetes | Docker |Terraform | Ansible | Linux
+### DevOps Engineer – WV Automation  
+🚀 DevOps • SRE • Cloud Engineer | AWS | CI/CD | Kubernetes | Docker | Terraform | Ansible | Linux
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/kalyan-talabothula/)
 
