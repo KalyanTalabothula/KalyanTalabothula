@@ -19,14 +19,15 @@ I’m a passionate **DevOps & Cloud Engineer** with over **2.5+ years of experie
 
 ### 🧰 Tech Stack
 
-- **Operating Systems(OS)**: Linux
-- **Cloud**: AWS (Core), Azure(Fundamentals)
-- **Source Code Management(SCM)**: Git, GitHub, Bitbucket  
-- **Infrastructure as Code(IaC)**: Terraform, CloudFormation
-- **Containers**: Docker, Kubernetes  
-- **Scripting**: Bash, Shell, Python (Basics)    
-- **Security**: IAM, RBAC
-- **CI/CD**: GitHub Actions, Jenkins
+- **🖥️ Operating Systems(OS):** Linux (Ubuntu, CentOS)
+- **🌐 Cloud Platforms:** AWS (Core), Azure (Fundamentals)
+- **🔧 Version Control / SCM:** Git, GitHub, Bitbucket  
+- **🛠️ Infrastructure as Code (IaC):** Terraform, CloudFormation
+- **🐳 Containers & Orchestration:** Docker, Kubernetes  
+- **💻 Scripting & Automation:** Bash, Shell, Python (Basics)    
+- **🔒 Security & Access Management:** IAM, RBAC, Security Groups
+- **🔄 CI/CD Tools:** Jenkins
+
 ---
 
 ### 🔧 What I Do
