@@ -68,6 +68,32 @@ I’m a passionate **DevOps & Cloud Engineer** with over **2.5+ years of experie
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
 </p>
 
+---
 
+## Projects
+
+### Secure 3-Tier E-Commerce Microservices Architecture on AWS
+
+**Overview:**  
+Designed and deployed a production-grade **e-commerce application** using a **3-tier microservices architecture** with full network isolation and security.
+
+**Architecture & Implementation:**  
+- **Frontend:** Served via ALB + Route 53 in a public subnet  
+- **Microservices:** User, Cart, Shipping, Catalogue, Payment hosted in private subnets  
+- **Databases:** MongoDB, Redis, MySQL, RabbitMQ securely placed in database subnet  
+- Enforced **network security** using Security Groups, NACLs, KMS encryption, and VPN access  
+- Infrastructure provisioned with **Terraform**, deployments automated via **Jenkins**, GitOps implemented using **Argo CD & Helm**  
+
+**Tools & Technologies:**  
+AWS, Terraform, Jenkins, Argo CD, Helm, Docker, Kubernetes, Git, CI/CD, Microservices, Networking, Security  
+
+**Key Learnings / Achievements:**  
+- Gained end-to-end experience in **designing, provisioning, securing, and operating cloud-native applications**  
+- Developed hands-on expertise in **Terraform, CI/CD automation, and GitOps workflows**  
+- Improved deployment efficiency and operational reliability  
+
+📌 This project demonstrates my ability to build **secure, scalable, and automated cloud infrastructures**, preparing me for real-world DevOps roles.
+
+---
 Thanks for visiting! ✨  
 Let’s connect and grow together 💬
