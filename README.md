@@ -82,7 +82,7 @@ Designed and deployed a production-grade **e-commerce application** using a **3-
 - **Microservices:** User, Cart, Shipping, Catalogue, Payment hosted in private subnets  
 - **Databases:** MongoDB, Redis, MySQL, RabbitMQ securely placed in database subnet  
 - Enforced **network security** using Security Groups, NACLs, KMS encryption, and VPN access  
-- Infrastructure provisioned with **Terraform**, deployments automated via **Jenkins**, GitOps implemented using **Argo CD & Helm**  
+- Infrastructure provisioned with **Terraform**, deployments automated via **Jenkins**, GitOps implemented using **Argo CD & Helm**
 
 **Tools & Technologies:**  
 AWS, Terraform, Jenkins, Argo CD, Helm, Docker, Kubernetes, Git, CI/CD, Microservices, Networking, Security  
