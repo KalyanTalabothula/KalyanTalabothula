@@ -27,6 +27,7 @@ I’m a passionate **DevOps & Cloud Engineer** with over **2.5+ years of experie
 - **💻 Scripting & Automation:** Bash, Shell, Python (Basics)    
 - **🔒 Security & Access Management:** IAM, RBAC, Security Groups
 - **🔄 CI/CD Tools:** Jenkins
+- **🗄️ Databases:** MySQL, PostgreSQL, MongoDB, Redis
 
 ---
 
