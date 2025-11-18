@@ -18,7 +18,7 @@
 
 ---
 
-I’m a passionate **DevOps & Cloud Engineer** with over **2.5+ years of experience** in building scalable, secure, and highly available cloud infrastructures. I specialize in infrastructure automation, Linux administration, and configuration management, with a solid understanding of CI/CD concepts. I work extensively with AWS, Terraform, Ansible, Docker, and Kubernetes to automate workflows, enhance reliability, and optimize cloud performance.
+I’m a passionate **DevOps & Cloud Engineer** with over **3 years of experience** in building scalable, secure, and highly available cloud infrastructures. I specialize in infrastructure automation, Linux administration, and configuration management, with a solid understanding of CI/CD concepts. I work extensively with AWS, Terraform, Ansible, Docker, and Kubernetes to automate workflows, enhance reliability, and optimize cloud performance.
 
 ---
 
