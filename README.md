@@ -29,9 +29,9 @@ I’m a passionate **DevOps & Cloud Engineer** with over **3 years of experience
 - **🔧 Version Control / SCM:** Git, GitHub, Bitbucket  
 - **🛠️ Infrastructure as Code (IaC):** Terraform, CloudFormation
 - **🐳 Containers & Orchestration:** Docker, Kubernetes  
-- **💻 Scripting & Automation:** Shell, Python (Basics)    
+- **💻 Scripting:** Shell, Python (Basics)    
 - **🔒 Security & Access Management:** IAM, RBAC, Security Groups
-- **🔄 CI/CD Tools:** Jenkins
+- **🔄 CI/CD Tools & Automation:** Jenkins, Maven, npm, pip
 - **🗄️ Databases:** MySQL, PostgreSQL, MongoDB, Redis
 
 ---
